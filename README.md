@@ -1,3 +1,3 @@
 # README
 
-Microblogging platform in Rails
+Built using Ruby on Rails with a React/Redux front-end
